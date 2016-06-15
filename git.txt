@@ -13,3 +13,16 @@ git log // shows commits
 untracked files  //folders which are not added to repo
 git log --author="dulya"
 git diff // shows new new  changes
+
+-----------------Git Hub ---------------------------------
+
+git clone //remote repositary ekaka cpoiyak gannawa local ekata
+up karapu thana url eka witharayi oni
+git push //local machine eke karapu commit serama remote repo ekata daganna eka
+git pull // remote repo eke wela thiyena changes tika gannawa
+git pull origin master
+git pull origin <<commit name>>
+
+
+git commit -m "--"
+git clone link name
