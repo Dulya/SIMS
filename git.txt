@@ -1,0 +1,15 @@
+git init // initialize an empty repo
+make a txt file
+git status
+now txt file must be added to repo
+git add .  // . means current folder...all inside files are included
+git status // showing changes to be committed
+git config --global user.name "dulya" // setting global user name
+git config --global user.email "dulyamurage@gmail.com"
+git config user.name >>>>> dulya
+git config user.email >>>> dulyamurage@gmail.com
+git commit -m "This is the first commit"git // coommit the changes done
+git log // shows commits
+untracked files  //folders which are not added to repo
+git log --author="dulya"
+git diff // shows new new  changes
